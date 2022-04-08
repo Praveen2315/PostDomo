@@ -8,5 +8,9 @@ public class Sample {
 		System.out.println("sunday");
 
 	}
+	private void monday() {
+
+		System.out.println("monday");
+	}
 
 }
